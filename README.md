@@ -1,4 +1,5 @@
-Descrição Geral:
+STREAMLITAPP
+
 
 O StreamLitApp é uma aplicação web interativa construída com Streamlit, projetada para facilitar a análise exploratória de dados. Composto por 4 páginas distintas, ele permite que usuários explorem um conjunto de dados (dados.csv) de maneira intuitiva e dinâmica, através de visualizações e ferramentas interativas.
 
