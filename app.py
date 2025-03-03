@@ -31,3 +31,4 @@ with st.sidebar:
     else:
         st.write("Aguardando o carregamento dos dados...")
         st.session_state['top_n'] = default_top_n # Garante que top_n seja definido.
+st.write('Joel Teixeira -2024 ')
