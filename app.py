@@ -3,8 +3,8 @@ import pandas as pd
 
 
 st.set_page_config(page_title="Aplicação Analise exploratoria de dados")
-st.title('Bem vindo a /n
-Análise Exploratória de Despesas')
+st.title('Bem vindo!')
+st.title('Análise Exploratória de Despesas')
 
 @st.cache_resource
 def load_data():
