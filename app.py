@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="Aplicação Analise exploratoria de dados")
 
 st.title('Análise Exploratória de Despesas')
-
+st.image('grafico.png')
 @st.cache_resource
 def load_data():
     dados= pd.read_csv('dados.csv',sep=';')
