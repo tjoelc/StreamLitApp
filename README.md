@@ -1,5 +1,6 @@
 STREAMLITAPP
-<a href="https://appapp-ndzyc5va4gcol2vj2pw4nx.streamlit.app/"> Gerenciamento de Despesas<\a>
+<a href="https://appapp-ndzyc5va4gcol2vj2pw4nx.streamlit.app/"> Gerenciamento de Despesas</a>
+
 O StreamLitApp é uma aplicação web interativa construída com Streamlit, projetada para facilitar a análise exploratória de dados. Composto por 4 páginas distintas, ele permite que usuários explorem um conjunto de dados (dados.csv) de maneira intuitiva e dinâmica, através de visualizações e ferramentas interativas.
 
 Estrutura do Projeto:
